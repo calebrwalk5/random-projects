@@ -1,0 +1,16 @@
+{
+  "name": "hacktools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hacktools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "hyperz-utils": "^1.0.3",
+    "markdown-it-faxes": "^1.1.4"
+  }
+}
