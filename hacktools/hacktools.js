@@ -28,3 +28,4 @@ setInterval(async function() {
 }, 5000);
 
 // This program doesn't really do anything lol
+/* I HATE THE ANTICHRIST (JavaScript) - anusO1 */
