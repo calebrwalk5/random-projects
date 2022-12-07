@@ -25,3 +25,4 @@ setInterval(async function() {
 }, 5000);
 
 // This program doesn't really do anything lol
+// "i hate javascript" -anusO1 2022
